@@ -6,6 +6,6 @@
 
 ### It is based on rewritten version of OBS.Studio for max performance and stability. 
 
-#### Check the source code here: [CosmicPlays.Pro CLI](https://github.com/CosmicPlaysPro/CosmicPlaysPro-CLI)
+#### Check the source code here: [CosmicPlays.pro CLI](https://github.com/CosmicPlaysPro/CosmicPlays.pro-CLI)
 
 Download the app and read more at [https://cosmicplays.pro](https://cosmicplays.pro)
